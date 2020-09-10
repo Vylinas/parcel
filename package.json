@@ -1,0 +1,19 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "Test with parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vylinas/parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vylinas/parcel/issues"
+  },
+  "homepage": "https://github.com/Vylinas/parcel#readme"
+}
